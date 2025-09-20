@@ -1,0 +1,4 @@
+/libraries/
+*.dll
+*.bin
+venv
